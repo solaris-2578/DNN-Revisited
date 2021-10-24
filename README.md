@@ -3,9 +3,9 @@ This repository is a collection to review DNN concepts and models for self-study
 
 ## Contents
 
-[DNN Regularization](DNN Regularization.md)
+[DNN Regularization](DNN_Regularization.md)
 
-[DNNs Collection](DNNs Collection.md)
+[DNNs Collection](DNNs_Collection.md)
 
 [Deep Compression Pipeline](Deep Compression Pipeline.md)
 
